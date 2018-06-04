@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="search_string_hint">Строка поиска</string>
+	<string name="button_text">Поиск</string>
+	<string name="dialog_header_info">Информация</string>
+	<string name="dialog_header_error">Ошибка</string>
+	<string name="dialog_header_warning">Предупреждение</string>
+	<string name="dialog_header">Загрузка</string>
+	<string name="dialog_message">Подождите пожулуйста…</string>
+	<string name="dialog_empty_search_string">Поустой запрос</string>
+	<string name="dialog_empty_result_error">Поискк завешнён или возникла ошибка сервера</string>
+	<string name="dialog_network_error">Ошибка сети. Проверьте Интернет подключение</string>
+	<string name="dialog_close_button">ЗАКРЫТЬ</string>
+	<string name="context_menu_view_photo">Показать фото</string>
+	<string name="context_menu_view_map">Показать на карте</string>
+	<string name="dialog_current_location">Текущее положение</string>
+	<string name="dialog_no_coordinates">Координаты не указаны</string>
+	<string name="dialog_hind_message">Изображения загружаются при прокрутке экрана.
+        Серый маркер указывает на отсутствие GPS-координат.
+        Красный маркер указывает на наличие GPS-координат.
+		Каждое изображение имеет контекстное меню (показать фото и показать на карте)</string>
+	<string name="dialog_current_do_not_show_again">Больше не показывать</string>
+</resources>

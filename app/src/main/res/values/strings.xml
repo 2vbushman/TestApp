@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Flickr image loader</string>
+	<string name="search_string_hint">Enter search string</string>
+	<string name="button_text">Search</string>
+	<string name="dialog_header_info">Info</string>
+	<string name="dialog_header_error">Error</string>
+	<string name="dialog_header_warning">Warning</string>
+	<string name="dialog_header">Loading</string>
+	<string name="dialog_message">Wait please…</string>
+	<string name="dialog_empty_search_string">Empty search string</string>
+	<string name="dialog_empty_result_error">Search completed or server error occurred</string>
+	<string name="dialog_network_error">Device network error. Check you internet connection</string>
+	<string name="dialog_close_button">CLOSE</string>
+	<string name="context_menu_view_photo">Show photo</string>
+	<string name="context_menu_view_map">View on map</string>
+	<string name="dialog_current_location">Current location</string>
+	<string name="dialog_no_coordinates">Coordinates not specified</string>
+	<string name="dialog_hind_message">Images loaded on screen scrolling.
+		A gray marker indicates no GPS coordinates.
+		Red marker indicates the availability of GPS coordinates.
+		Each image has context menu (show photo and show on map)</string>
+	<string name="dialog_current_do_not_show_again">Do not show again</string>
+</resources>
